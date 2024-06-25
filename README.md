@@ -22,7 +22,7 @@ Project consists of a simple PowerShell script to demonstrate a File Integrity M
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/K6cyuBp" height="80%" width="80%"/>
+FIM Flow Chart : <br/>
+<img src="https://i.imgur.com/K6cyuBp.png" height="80%" width="80%"/>
 <br />
 <br />
